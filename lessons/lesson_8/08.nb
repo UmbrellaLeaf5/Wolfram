@@ -1,0 +1,91 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2972,         83]
+NotebookOptionsPosition[      2150,         60]
+NotebookOutlinePosition[      2581,         77]
+CellTagsIndexPosition[      2538,         74]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\:0420\:0430\:0431\:043e\:0442\:0430 \:0441 \:044d\:043a\:0441\:043f\
+\:0435\:0440\:0438\:043c\:0435\:043d\:0442\:0430\:043b\:044c\:043d\:044b\:043c\
+\:0438 \:0434\:0430\:043d\:043d\:044b\:043c\:0438", "Title",
+ CellChangeTimes->{{3.7656288992056527`*^9, 3.7656289045339603`*^9}, {
+  3.7657903382501717`*^9, 
+  3.7657903726443195`*^9}},ExpressionUUID->"4fa9eee0-1fba-49a9-9451-\
+dce3f41ad7b4"],
+
+Cell[CellGroupData[{
+
+Cell["\:041f\:043e\:043b\:0443\:0447\:0435\:043d\:0438\:0435 \:0434\:0430\
+\:043d\:043d\:044b\:0445 \:0438\:0437 \:0438\:0437\:043e\:0431\:0440\:0430\
+\:0436\:0435\:043d\:0438\:044f", "Chapter",ExpressionUUID->"1aee73c7-5e88-\
+4cd7-ac05-4922fed9bcd0"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"image", "=", 
+   RowBox[{"Import", "@", 
+    RowBox[{"FileNameJoin", "@", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"NotebookDirectory", "[", "]"}], ",", 
+       "\"\<\:0411\:0435\:0437\:044b\:043c\:044f\:043d\:043d\:044b\:0439.png\>\
+\""}], "}"}]}]}]}], ";"}]], "Input",ExpressionUUID->"a89aa621-f3bb-4a0c-9355-\
+f4e3645eb0f9"],
+
+Cell["\:0426\:0435\:043b\:044c \[LongDash] \:043f\:043e\:043b\:0443\:0447\
+\:0438\:0442\:044c \:0438\:0437 \:0438\:0437\:043e\:0431\:0440\:0430\:0436\
+\:0435\:043d\:0438\:044f \:0433\:0440\:0430\:0444\:0438\:043a\:0430 \:043d\
+\:0430\:0431\:043e\:0440 \:0442\:043e\:0447\:0435\:043a.", "Text",ExpressionUU\
+ID->"511580e4-384c-458d-802b-bd1aa62ee7e9"]
+}, Closed]],
+
+Cell["\:0411\:0430\:0437\:0430 \:0434\:0430\:043d\:043d\:044b\:0445", \
+"Chapter",ExpressionUUID->"85c87a9f-e5cc-4a58-b53e-c8412c843581"]
+}, Open  ]]
+},
+WindowSize->{1280, 1033},
+WindowMargins->{{Automatic, 79}, {Automatic, 124}},
+Magnification:>2. Inherited,
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (March 14, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"d5b1739e-ad4f-45bb-b226-83e58cd73ff0"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 399, 6, 438, "Title",ExpressionUUID->"4fa9eee0-1fba-49a9-9451-dce3f41ad7b4"],
+Cell[CellGroupData[{
+Cell[1004, 32, 251, 3, 136, "Chapter",ExpressionUUID->"1aee73c7-5e88-4cd7-ac05-4922fed9bcd0"],
+Cell[1258, 37, 371, 10, 57, "Input",ExpressionUUID->"a89aa621-f3bb-4a0c-9355-f4e3645eb0f9"],
+Cell[1632, 49, 350, 4, 68, "Text",ExpressionUUID->"511580e4-384c-458d-802b-bd1aa62ee7e9"]
+}, Closed]],
+Cell[1997, 56, 137, 1, 110, "Chapter",ExpressionUUID->"85c87a9f-e5cc-4a58-b53e-c8412c843581"]
+}, Open  ]]
+}
+]
+*)
+
