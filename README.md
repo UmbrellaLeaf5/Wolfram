@@ -2,7 +2,7 @@
 [https://www.youtube.com/watch?v=nXVEOUMZbzQ]
 
 (if you have error with server connect, try to edit Kernel path in Wolfram Language extension, or just past to `settings.json` this:
-```"wolfram.kernel": "D:/PathToKernelOrWolframEngine/WolframKernel.exe"```
+```"wolfram.systemKernel": "C:/PathToKernelOrWolframEngine/WolframKernel.exe"```
 )
 
 ## Installing Wolfram Language as Jupyter Kernel
